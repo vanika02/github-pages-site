@@ -27,26 +27,26 @@
     { "id": "prod-7cfecd82-021", "name": "Pro Item 21", "category": "books", "price": 329.65, "stock": 83, "rating": 2.2 },
     { "id": "prod-7cfecd82-022", "name": "Basic Item 22", "category": "sports", "price": 217.79, "stock": 154, "rating": 2.3 }
   ],
-  "aggregations": {
-    "home": {
-      "count": 5,
-      "inventoryValue": 117360.55
-    },
-    "books": {
-      "count": 6,
-      "inventoryValue": 145109.3
-    },
-    "electronics": {
-      "count": 2,
-      "inventoryValue": 62924.96
-    },
-    "clothing": {
-      "count": 5,
-      "inventoryValue": 86878.42
-    },
-    "sports": {
-      "count": 4,
-      "inventoryValue": 93661.23
-    }
+"aggregations": {
+  "home": {
+    "count": 5,
+    "inventoryValue": 117738.20000000001
+  },
+  "books": {
+    "count": 6,
+    "inventoryValue": 145109.3
+  },
+  "electronics": {
+    "count": 2,
+    "inventoryValue": 62924.96
+  },
+  "clothing": {
+    "count": 5,
+    "inventoryValue": 86878.42
+  },
+  "sports": {
+    "count": 4,
+    "inventoryValue": 93661.23
   }
+}
 }
